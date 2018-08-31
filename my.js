@@ -17,7 +17,7 @@ class Car {
     speedUp() {
         console.log(` 
             Speeding Up
-            ${this.sp * 89}
+            ${this.sp * 89}a
             is a good speed.
         `)
     }
